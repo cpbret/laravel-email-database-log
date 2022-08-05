@@ -10,7 +10,6 @@
         }
     ],
     "require": {
-        "illuminate/support": "~8.0",
         "illuminate/database": "~8.0",
         "illuminate/mail": "~8.0",
         "illuminate/queue": "~8.0",
